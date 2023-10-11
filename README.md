@@ -1,3 +1,5 @@
+**THIS WAS MODIFIED FOR THE SAKE OF A TEST**
+
 # Auto-Merge-Bot
 
 Bot which enables or disable [`auto-merge`](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/automatically-merging-a-pull-request) in a repository.
